@@ -1,3 +1,3 @@
 SELECT *
 FROM user_data
-WHERE Likes > 500 AND Posts > 10;
+WHERE Likes > 0 AND Posts > 80;
