@@ -1,2 +1,2 @@
-DELETE FROM user_data
+DELETE FROM 
 WHERE User_Name = 'Taylor Brown';
