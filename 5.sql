@@ -1,3 +1,3 @@
 SELECT *
 FROM user_data
-WHERE Followers < 0;
+WHERE Followers < 300;
